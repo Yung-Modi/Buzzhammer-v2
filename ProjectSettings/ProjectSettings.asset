@@ -103,7 +103,7 @@ PlayerSettings:
   xboxEnableFitness: 0
   visibleInBackground: 1
   allowFullscreenSwitch: 1
-  fullscreenMode: 3
+  fullscreenMode: 1
   xboxSpeechDB: 0
   xboxEnableHeadOrientation: 0
   xboxEnableGuest: 0
@@ -780,8 +780,8 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Buzzhammer v2
-  metroPackageVersion: 
+  metroPackageName: Buzzhammerv2
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -789,7 +789,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: Buzzhammer v2
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: Buzzhammer v2
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
@@ -857,10 +857,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: a468ec9a-c86f-4dc9-8507-8c135e856ac4
+  cloudProjectId: 0610bba8-8fae-4b0d-a7b5-57d90bd43071
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Buzzhammer v2
+  projectName: Buzzhammer v2 2024-12-18_12-46-17
   organizationId: chrisreaper404
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
